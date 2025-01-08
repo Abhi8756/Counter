@@ -1,0 +1,22 @@
+*{
+    background-color: antiquewhite;
+}
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    
+}
+#big,#value{
+    font-size: 50px;
+}
+.btn{
+    margin-top: 20px;
+    height: 35px;
+    margin-right: 7.5px;
+    border-radius: 5px;
+    font-family: cursive;
+    
+}
